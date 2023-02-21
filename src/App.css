@@ -36,21 +36,3 @@
     transform: rotate(360deg);
   }
 }
-.topic,.topic1 {
-  padding: 20px;
-  display: flex;
-  width: 1200px;
-  flex-wrap: wrap;
-}
-.course {
-  height: 200px;
-  width: 200px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-right: 20px;
-  background-color: #61dafb;
-}
-.course:last-child {
-  margin-right: unset;
-}
